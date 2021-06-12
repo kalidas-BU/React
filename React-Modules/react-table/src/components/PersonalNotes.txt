@@ -1,0 +1,19 @@
+1. BasicTable.js : 
+        This page consists of the basic table code of react-table, all other code is modification on this.
+
+2. FilteringTable.js :
+        This page consists of the filtering logic applied on the basicTable.js
+
+        2.1 GlobalFilter.js: 
+                Logic for global filtering
+        2.2 ColumnFilter.js:
+                Logic for specific column filtering
+
+3. SortingTable.js :
+        This page consists of sorting logic applied in header
+
+4. PaginationTabel.js :
+        This consists of pagination logic i.e. shifting data on multiple pages
+
+5. coloumn.js : the data of coloumn header
+6. data.json : the mock data                
